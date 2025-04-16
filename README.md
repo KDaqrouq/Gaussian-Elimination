@@ -1,2 +1,2 @@
 # Gaussian-Elimination
-Gaussian Elimination by back substitution using Python
+Gaussian Elimination with back substitution using Python
